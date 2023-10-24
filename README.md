@@ -64,15 +64,15 @@ Libraries and Packages - pandas, numpy, matplotlib, plotly, gensim, streamlit, n
 ## Search Engine Application
 
 <p align="center">
-  <img width="300" height="200" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/tree/94512f95563b36b1391b92cd984be3dc4446cf15/Images/Application_screen.png">
+  <img width="600" height="300" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/blob/main/Images/Application_screen.png">
 </p>
 
  > Search result with FastText model 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/tree/94512f95563b36b1391b92cd984be3dc4446cf15/Images/Search_result1.png">
+  <img width="800" height="800" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/blob/main/Images/Search_result1.png">
 </p>
 
  > Search result with Skipgram
 <p align="center">
-  <img width="600" height="300" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/tree/94512f95563b36b1391b92cd984be3dc4446cf15/Images/Search_result2.png">
+  <img width="800" height="800" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/blob/main/Images/Seearch_result2.png">
 </p>
