@@ -69,10 +69,10 @@ Libraries and Packages - pandas, numpy, matplotlib, plotly, gensim, streamlit, n
 
  > Search result with FastText model 
 <p align="center">
-  <img width="800" height="800" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/blob/main/Images/Search_result1.png">
+  <img width="1000" height="800" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/blob/main/Images/Search_result1.png">
 </p>
 
  > Search result with Skipgram
 <p align="center">
-  <img width="800" height="800" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/blob/main/Images/Seearch_result2.png">
+  <img width="1000" height="800" src="https://github.com/UpadhyayShweta/clinical-trail-search-engine/blob/main/Images/Seearch_result2.png">
 </p>
